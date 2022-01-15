@@ -1,0 +1,38 @@
+{
+    "config":{
+        "name":"Peter's BBS system",
+        "port":51234,
+        "hostname":"",
+        "initialBoard":1,
+        "welcomeFile":"welcome.asc",
+        "byeFile":"goodbye.asc",
+        "paths":{
+            "scripts":"../scripts/",
+            "menus":"../menus/"
+        }
+    },
+    "pcboard":{
+        "variables":{
+            "SYSTIME":"%Y-%m-%d",
+            "SYSDATE":"%H:%M"
+        }
+    },
+    "boards":{
+        "1":{
+            "name":"Main",
+            "menuFile" : "mainmenu.pcb",
+            "commands":{
+                "g":"logOff",
+                "menu":"showSelf"
+            }
+        },
+        "2":{
+            "name":"Demos",
+            "menuFile" : "demos.pcb",
+            "commands":{
+                "g":"logOff",
+                "menu":"showSelf"
+            }
+        }
+    }
+}

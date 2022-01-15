@@ -1,0 +1,22 @@
+@X08                                                                     
+     ,--.   ,--.        @X07,--.@X08
+     |   `.'   | ,--,--.@X07`--'@X08,--,--,     ,--,--,--. ,---. ,--,--, ,--.,--. 
+     |  |'.'|  |' ,-.  |,--.|      \    |        || .-. :|      \|  ||  | 
+     |  |   |  |\ '-'  ||  ||  ||  |    |  |  |  |\   --.|  ||  |'  ''  ' 
+     `--'   `--' `--`--'`--'`--''--'    `--`--`--' `----'`--''--' `----' 
+@X07
+.-----------------------------------------------------------------------------.
+| Date: @SYSDATE@                                                Time: @SYSTIME@ |
+|-----------------------------------------------------------------------------|
+| @X08(@X0EF@X08)@X07ile Directories      @X08(@X0EL@X08)@X07ocate a filename       @X08(@X0ET@X08)@X07ransfer protocol       |
+| @X08(@X0ED@X08)@X07ownload a file       @X08(@X0EN@X08)@X07ew file scan                                     |
+| @X08(@X0EU@X08)@X07pload a file         @X08(@X0EV@X08)@X07iew your statistics                              |
+| @X08(@X0ER@X08)@X07ead messages         @X08(@X0EC@X08)@X07omment to SysOp        @X08(@X0ETS@X08)@X07 Text search msgs.    |
+| @X08(@X0EE@X08)@X07nter a message       @X08(@X0EQ@X08)@X07uick Message Scan      @X08(@X0EQWK@X08)@X07 Transfer QWK mail   |
+| @X08(@X0EJ@X08)@X07oin a conference     @X08(@X0EA@X08)@X07bandon conference                                |
+| @X08(@X0EB@X08)@X07ulletins             @X08(@X0EX@X08)@X07pert mode toggle       @X08(@X0EO@X08)@X07 Page SysOp            |
+:-----------------------------------------------------------------------------:
+| @X08Global commands:@X07                                                            |
+| @X08(@X0ELIST@X08)@X07 available boards         @X08(@X0EBYE@X08)@X07 Log off                               |
+| @X08(@X0ECHANGE #@X08)@X07 Board to board #     @X08(@X0EUSER@X08)@X07 List conference members              |
+'-----------------------------------------------------------------------------'
