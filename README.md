@@ -1,6 +1,8 @@
 # SnoozBBS
 
-I made this one as a hobby project once upon a time, it uses Telnet and should have SSH added to it some day. But I don't have as much time as I once did for projects like these. Also I'm really a PHP developer and just made this in Python because it was better suited for it.
+I made this one as a hobby project once upon a time. This project is something I use to learn more about Python
+I have now added SSH support for SnoozBBS and removed the old Telnet support.
+Create a key using ssh-keygen and place the keys in the config folder or anywhere else you want and update the path in the bbs.json file
 
 ## Backstory
 
