@@ -1,0 +1,7 @@
+config/id_rsa
+config/id_rsa.pub
+config/bbs.json
+logs/*
+scripts/*.log
+config/key*
+.idea

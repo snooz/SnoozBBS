@@ -13,9 +13,9 @@
     },
     "server": {
         "mode": "ssh",
-        "key_private": "../config/keypair",
-        "key_public": "../config/keypair.pub",
-        "key_password": ""
+        "key_private": "../config/id_rsa",
+        "key_public": "../config/id_rsa.pub",
+        "key_password": "--prompt--"
     },
     "pcboard":{
         "variables":{
